@@ -1,0 +1,87 @@
+
+Project
+  > src
+     > Packages
+        > Classes
+            > Methods
+            > Variables
+            > Constructors
+              > we create objects
+              
+              
+Java > programming language
+     > To build programs
+     > computer programs 
+     > softwares
+     
+Java > Object oriented programming language     
+     > Object
+     > Ajay, Srividya, Naveen, Rama, Purnima > Human being
+     > eat, read, sleep > actions
+
+
+====================================================================
+End result
+
+Job
+Automation tester > Automation framework
+
+Java
+Selenium
+TestNG
+Cucumber
+RestAssured
+
+POM framework
+SQL
+Maven
+Jenkins
+GitHub
+
+========================================================
+
+Instance > static yes
+Static > instance no
+
+
+=============================================================
+A - cooking
+B - Chicken
+C - Eggs
+
+
+
+B -> C
+A -> B
+
+
+A -> B
+A -> C
+
+=====================================================
+Inheritance topic
+Single level
+Multi level
+
+Multiple - not supported by java
+
+
+Classes
+Abstract classes
+Interfaces
+
+
+
+
+
+
+
+
+
+
+
+
+
+              
+
+
