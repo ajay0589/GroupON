@@ -1,0 +1,62 @@
+Automation + testing
+
+Selenium > Automation
+
+
+Testing > TestNG, Cucumber, JUnit
+
+
+
+
+<html>
+
+<head>
+<title>Form</title>
+</head>
+
+<body>
+
+<tagName attributeName1=value attributeName2=value>Select</tagName>
+
+</body>
+
+
+</html>
+
+=========================================================
+Identifiers(8):
+
+Id - Y
+Name - Y
+tagName
+className
+linkedText
+partialLinkedText
+XPath - Y
+cssSelector
+
+========================================================
+1. identify element and enter text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
